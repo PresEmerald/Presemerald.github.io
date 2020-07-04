@@ -1,4 +1,4 @@
-baseURL = "http://fuhrerchaya.com/"
+baseURL = "fuhrerchaya.com/"
 languageCode = "en-us"
 title = "Welcome to the Flip Side"
 theme = "dimension"
