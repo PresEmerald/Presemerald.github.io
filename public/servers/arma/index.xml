@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arma on Welcome to the Flip Side</title>
+    <link>fuhrerchaya.com/servers/arma/</link>
+    <description>Recent content in Arma on Welcome to the Flip Side</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="fuhrerchaya.com/servers/arma/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Arma 3 Server</title>
+      <link>fuhrerchaya.com/servers/arma/arma3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>fuhrerchaya.com/servers/arma/arma3/</guid>
+      <description>Work in Progress</description>
+    </item>
+    
+  </channel>
+</rss>
