@@ -1,6 +1,6 @@
 ---
 title: Fuhrer Chaya
 description: A Filthy Ningen
-background: "images/AnimBack.gif"
+background: "images/bg.jpg"
 logo: "gem"
 ---
